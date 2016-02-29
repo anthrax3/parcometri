@@ -1,0 +1,285 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1831935,
+                    40.3527419
+                ]
+            },
+            "properties": {
+                "id": "43",
+                "nome": "P046",
+                "distanza": "106 mt",
+                "topo": "Via",
+                "indirizzo": "Matteo Renato Imbriani",
+                "note": "fronte civ.12",
+                "zona": "Zona 05A",
+                "tariffa": "1,30\u20ac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18117,
+                    40.35389
+                ]
+            },
+            "properties": {
+                "id": "18",
+                "nome": "P020",
+                "distanza": "118 mt",
+                "topo": "Via",
+                "indirizzo": "Salvatore Trinchese",
+                "note": "ang. Via B. Martello",
+                "zona": "Zona 05A",
+                "tariffa": "1,30\u20ac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1837718,
+                    40.3528947
+                ]
+            },
+            "properties": {
+                "id": "134",
+                "nome": "P148",
+                "distanza": "130 mt",
+                "topo": "Via",
+                "indirizzo": "Guglielmo Oberdan",
+                "note": "civ.88",
+                "zona": "Zona 12",
+                "tariffa": "1,10\u20ac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1809997,
+                    40.3528887
+                ]
+            },
+            "properties": {
+                "id": "31",
+                "nome": "P033",
+                "distanza": "143 mt",
+                "topo": "Via",
+                "indirizzo": "Guglielmo Oberdan",
+                "note": "ang. Via Braccio Martello",
+                "zona": "Zona 05A",
+                "tariffa": "1,30\u20ac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18217,
+                    40.35215
+                ]
+            },
+            "properties": {
+                "id": "30",
+                "nome": "P032",
+                "distanza": "154 mt",
+                "topo": "Via",
+                "indirizzo": "95\u00b0 RGT Fanteria",
+                "note": "ang. Via Zanardelli",
+                "zona": "Zona 05A",
+                "tariffa": "1,30\u20ac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18199,
+                    40.35487
+                ]
+            },
+            "properties": {
+                "id": "24",
+                "nome": "P026",
+                "distanza": "156 mt",
+                "topo": "Via",
+                "indirizzo": "Cesare Battisti",
+                "note": "ang. via Zanardelli",
+                "zona": "Zona 05A",
+                "tariffa": "1,30\u20ac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.182988,
+                    40.3549308
+                ]
+            },
+            "properties": {
+                "id": "39",
+                "nome": "P041",
+                "distanza": "163 mt",
+                "topo": "Via",
+                "indirizzo": "Matteo Renato Imbriani",
+                "note": "ang. Via Cesare Battisti",
+                "zona": "Zona 05A",
+                "tariffa": "1,30\u20ac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1809172,
+                    40.3545439
+                ]
+            },
+            "properties": {
+                "id": "126",
+                "nome": "P140",
+                "distanza": "174 mt",
+                "topo": "Via",
+                "indirizzo": "Cesare Battisti",
+                "note": "lato sx incr. Via B.Martello",
+                "zona": "Zona 05A",
+                "tariffa": "1,30\u20ac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1845426,
+                    40.3539712
+                ]
+            },
+            "properties": {
+                "id": "136",
+                "nome": "P150",
+                "distanza": "183 mt",
+                "topo": "Via",
+                "indirizzo": "Antonio Salandra",
+                "note": "incr. via Cosimo Di Palma",
+                "zona": "Zona 12",
+                "tariffa": "1,10\u20ac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1839096,
+                    40.3521533
+                ]
+            },
+            "properties": {
+                "id": "41",
+                "nome": "P044",
+                "distanza": "195 mt",
+                "topo": "Via",
+                "indirizzo": "95\u00b0RGT Fanteria",
+                "note": "fronte civ.111",
+                "zona": "Zona 12",
+                "tariffa": "1,10\u20ac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1802323,
+                    40.3539418
+                ]
+            },
+            "properties": {
+                "id": "44",
+                "nome": "P047",
+                "distanza": "195 mt",
+                "topo": "Via",
+                "indirizzo": "Salvatore Trinchese",
+                "note": "fronte ingresso Galleria",
+                "zona": "Zona 05A",
+                "tariffa": "1,30\u20ac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18311,
+                    40.35334
+                ]
+            },
+            "properties": {
+                "id": "23",
+                "nome": "P025",
+                "distanza": "58 mt",
+                "topo": "Via",
+                "indirizzo": "Matteo Renato Imbriani",
+                "note": "fronte civ. 24",
+                "zona": "Zona 05A",
+                "tariffa": "1,30\u20ac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1820507,
+                    40.3539803
+                ]
+            },
+            "properties": {
+                "id": "34",
+                "nome": "P036",
+                "distanza": "62 mt",
+                "topo": "Via",
+                "indirizzo": "Salvatore Trinchese",
+                "note": "ang. Via Giuseppe Zanardelli ",
+                "zona": "Zona 05A",
+                "tariffa": "1,30\u20ac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18226,
+                    40.35296
+                ]
+            },
+            "properties": {
+                "id": "22",
+                "nome": "P024",
+                "distanza": "65 mt",
+                "topo": "Via",
+                "indirizzo": "Guglielmo Oberdan",
+                "note": "ang. Via Zanardelli",
+                "zona": "Zona 05A",
+                "tariffa": "1,30\u20ac"
+            }
+        }
+    ]
+}
